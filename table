@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body bgcolor="paleturquoise" style="width: 100vh; margin: 0px; padding: 0px">
+<table style="border-spacing: 0px;"border="3" width="50%">
+     <tr>
+        <td bgcolor="lightcoral" colspan="3">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</td>
+    </tr>
+    <tr height="100px">
+        <td bgcolor="antiquewhite" colspan="3">Header</td>
+    </tr>
+    <tr height="100px">
+        <td bgcolor="antiquewhite" width="300px">Menu</td>
+        <td bgcolor="antiquewhite" width="300px">Content</td>
+        <td bgcolor="antiquewhite" width="300px">News</td>
+    </tr>
+    <tr>
+        <td bgcolor="lightcoral" colspan="3">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</td>
+    </tr>
+</table>
+
+</body>
+</html>
